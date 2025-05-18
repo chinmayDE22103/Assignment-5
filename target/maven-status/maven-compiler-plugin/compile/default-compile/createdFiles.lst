@@ -1,0 +1,6 @@
+com\example\servlets\LoginServlet.class
+com\example\filters\AuthenticationFilter.class
+com\example\filters\LoggingFilter.class
+com\example\servlets\DatabaseServlet.class
+com\example\servlets\SessionServlet.class
+com\example\servlets\WelcomeServlet.class
